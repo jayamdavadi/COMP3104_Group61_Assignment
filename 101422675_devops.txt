@@ -1,0 +1,7 @@
+The DevOps course focuses on integrating development and operations teams to enhance collaboration, automate workflows, and streamline software delivery. Gain hands-on experience in continuous integration, deployment, and monitoring using industry-leading tools and practices.
+
+
+
+
+
+
