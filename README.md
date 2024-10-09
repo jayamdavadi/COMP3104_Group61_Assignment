@@ -14,7 +14,7 @@ This repository hosts the group assignment for the COMP3104 DevOps course, focus
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/COMP3104_Group61_Assignment.git
+   git clone https://github.com/Abhishek-kam/COMP3104_Group61_Assignment.git
 
 2. Switch to your branch using `git checkout 101422675-Abhishek`.
 3. Install any dependencies as listed -NA-
