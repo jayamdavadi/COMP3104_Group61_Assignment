@@ -1,11 +1,11 @@
-In this course students will learn the procedures, protocols and best practices that a DevOps
+In this course, we have been learning the procedures, protocols and best practices that a DevOps
 engineer brings to a workplace environment to increase productivity. Analyze and evaluate
 various developer operation implementations available and implement hands-on work using
 industry standard toolkit. Create solutions to complex business problems by adhering to the core
 responsibilities of DevOps.
 
 Course Outcomes
-At the end of this course, the students will reliably demonstrate the ability to:
+At the end of this course, we will reliably demonstrate the ability to:
 1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions
 using industry standard tools and techniques such as continuous
 integration/delivery/deployment strategies, software development lifecycle, application
