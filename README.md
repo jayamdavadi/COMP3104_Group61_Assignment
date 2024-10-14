@@ -6,7 +6,7 @@
 - **Member 3:** Sifatpreet Kaur (101447665) - [GitHub](https://github.com/johnsmith)
 - **Member 4:** Tisha Chauhan (101478303) - [GitHub](https://github.com/johnsmith)
 - **Member 5:** Mohammad Amaan Vohra (101436093) - [GitHub](https://github.com/johnsmith)
-- **Member 6:** Avni Patel (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 6:** Avni Patel (101438174) - [GitHub](https://github.com/johnsmith)
 
 ## Project Description
 This repository hosts the group assignment for the COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
