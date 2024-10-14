@@ -1,12 +1,13 @@
 # COMP3104_Group61_Assignment
 
 ## Group Members
-- **Leader:** Jay Amdavadi (101435982) - [GitHub](https://github.com/priteshpatel)
-- **Member 2:** Abhishek Kamat (101422675) - [GitHub](https://github.com/Abhishek-kam)
-- **Member 3:** Sifatpreet Kaur (101447665) - [GitHub](https://github.com/johnsmith)
-- **Member 4:** Tisha Chauhan (101478303) - [GitHub](https://github.com/johnsmith)
-- **Member 5:** Mohammad Amaan Vohra (101436093) - [GitHub](https://github.com/johnsmith)
-- **Member 6:** Avni Patel (101438174) - [GitHub](https://github.com/johnsmith)
+- Leader: Jay Amdavdi (101435982) - [GitHub](https://github.com/jayamdavadi)  
+- Member 2: Abhishek Kamat (102YYYY) - [GitHub](https://github.com/abhishekkamat)  
+- Member 3: Tisha Chuahan (102ZZZZ) - [GitHub](https://github.com/tishachuahan)  
+- Member 4: Sifatpreet Kaur (102AAAA) - [GitHub](https://github.com/sifatpreetkaur)  
+- Member 5: Avni Patel (101438174) - [GitHub](https://github.com/avnipatel)  
+- Member 6: Amaan Vohra (101436093) - [GitHub](https://github.com/amaanvohra)
+
 
 ## Project Description
 This repository hosts the group assignment for the COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
