@@ -26,13 +26,3 @@ Maintenance: The SDLC doesn’t end with deployment. Post-launch, the software e
 Models of SDLC:
 Different projects may follow various SDLC models, depending on the complexity, timeline, and flexibility required. Common SDLC models include:
 
-Waterfall Model: A linear and sequential approach where each phase must be completed before the next begins. Ideal for projects with well-defined requirements.
-Agile Model: An iterative and incremental approach that focuses on delivering small, functional parts of the software in sprints. Agile allows for flexibility and continuous improvement based on feedback.
-Spiral Model: Combines iterative development with a risk-driven approach, making it ideal for large, complex, or high-risk projects.
-V-Model: Also known as the Verification and Validation model, this approach emphasizes testing at every phase of development.
-Benefits of SDLC:
-Clarity and Control: SDLC provides a clear roadmap, ensuring that each phase is thoroughly planned and executed.
-Risk Management: By identifying risks early on, the SDLC helps in minimizing potential roadblocks and ensuring smoother project execution.
-Quality Assurance: Testing is integrated into the process, helping ensure the software meets user requirements and industry standards.
-Cost-Effectiveness: A structured approach helps prevent costly revisions or scope creep, keeping the project on budget.
-The SDLC is an essential framework for developing reliable, scalable, and efficient software that meets both business objectives and user needs.
