@@ -1,0 +1,2 @@
+CompCOMP 3104 DevOps teaches the principles of Development and Operations integration, focusing on continuous integration, delivery, and deployment using automation tools.
+COMP 3104 DevOps covers topics such as Git version control, branching strategies, and CI/CD pipelines to streamline software development.
