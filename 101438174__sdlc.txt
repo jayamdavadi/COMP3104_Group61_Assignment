@@ -1,0 +1,3 @@
+DevOps is crucial in SDLC because it automates processes, improves collaboration between teams, and ensures faster, more reliable software delivery.
+DevOps helps in reducing deployment failures and downtime by automating testing.
+Automation in DevOps reduces manual errors.

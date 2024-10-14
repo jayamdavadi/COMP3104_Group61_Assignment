@@ -1,0 +1,3 @@
+COMP 3104 DevOps covers continuous integration, automation, and collaboration tools like Git, Jenkins, and GitHub Actions, preparing students for modern development practices.
+Students will learn to use CI/CD pipelines to automate testing and deployment.
+The course includes hands-on labs with GitHub.
